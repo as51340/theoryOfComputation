@@ -1,2 +1,2 @@
 # theoryOfComputation-DPA
-#Implementation of deterministic pushdown automata
+## Implementation of deterministic pushdown automata
