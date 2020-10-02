@@ -1,2 +1,2 @@
 # theoryOfComputation-MinimizationAutomat
-#Algorithm for minimization automats
+## Algorithm for minimization automats
